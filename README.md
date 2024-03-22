@@ -28,7 +28,7 @@ Final Score = Score * %attendance
 ```
 - [Colab](https://colab.research.google.com/github/Aingon14/BSC_DPDM23/blob/main/Group_project_final.ipynb#scrollTo=cgPvSXhZDltQ)
 
-- [Presentation](https://www.canva.com/design/DAF9q7VmDk0/rsxbZfN8ahvtKGPRJckMVQ/edit?utm_content=DAF9q7VmDk0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Presentation](https://drive.google.com/file/d/1eIFWaTP1ovgzeZJdFsz6vnjL4lKobZ9X/view?usp=sharing)
 
 # Quiz
 - [Quiz8](https://colab.research.google.com/github/Aingon14/BSC_DPDM23/blob/main/Quiz8.ipynb)
