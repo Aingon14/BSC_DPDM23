@@ -14,7 +14,7 @@ Final Score = Score * %attendance
 # Midterm Test 😇
 - [Midterm](https://colab.research.google.com/github/Aingon14/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
   
-# Final Test 😇
+# Final Project 😇
   Members
 ```
 1.นางสาวเพ็ญพิชชา   วรรณ์ชูมาตร์      643020063-4   Presentation
